@@ -1,0 +1,30 @@
+{
+  "name": "express-velocity",
+  "version": "1.0.0",
+  "description": "express's engine wrap for velocity template",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha  --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeluolee/express-velocity"
+  },
+  "keywords": [
+    "velocity",
+    "express"
+  ],
+  "author": "leeluolee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeluolee/express-velocity/issues"
+  },
+  "homepage": "https://github.com/leeluolee/express-velocity",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "velocity": "^0.7.2"
+  }
+}
