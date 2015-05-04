@@ -13,4 +13,4 @@ function expressify(options){
 }
 
 
-module.exports = expressify;
+module.exports = expressify
